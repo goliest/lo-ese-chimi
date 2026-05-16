@@ -1,0 +1,6 @@
+{
+  "name": "Lo de Chili Py",
+  "description": "Premium fast food experience. Urban street food, high conversion ordering app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
